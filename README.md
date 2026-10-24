@@ -5,8 +5,8 @@
 B.E. Electronics & Computer Engineering @ Thapar Institute of Engineering & Technology · Class of 2028
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harshitatal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitatal)
-
-**Experience:** Summer Intern @ Bharat Electronics Limited (2026)
+[![Email](https://img.shields.io/badge/Email-harshit4802%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:harshit4802@gmail.com)
+[![Student Mail](https://img.shields.io/badge/Student%20Mail-hatal__be24%40thapar.edu-1A73E8?style=flat&logo=gmail&logoColor=white)](mailto:hatal_be24@thapar.edu)
 
 ---
 
