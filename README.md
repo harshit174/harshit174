@@ -14,7 +14,21 @@ B.E. Electronics & Computer Engineering @ Thapar Institute of Engineering & Tech
 
 ### AI / ML
 
-CNNs · LSTMs · Transformers · NLP · LLMs (local inference with Ollama) · RAG · Multi-Agent Systems · Model Evaluation · Feature Engineering
+<table>
+  <tr>
+    <td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ollama/white"><img src="https://cdn.simpleicons.org/ollama/black" width="40" height="40" alt="Ollama"/></picture><br><sub><b>Ollama</b></sub></td>
+  </tr>
+</table>
+
+![CNNs](https://img.shields.io/badge/CNNs-7C3AED?style=flat-square)
+![LSTMs](https://img.shields.io/badge/LSTMs-7C3AED?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-7C3AED?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-7C3AED?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-7C3AED?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-7C3AED?style=flat-square)
 
 ### Frameworks & Libraries
 
@@ -29,9 +43,14 @@ CNNs · LSTMs · Transformers · NLP · LLMs (local inference with Ollama) · RA
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/><br><sub><b>Matplotlib</b></sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/><br><sub><b>OpenCV</b></sub></td>
   </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" alt="Hugging Face"/><br><sub><b>Hugging Face</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain" width="40" height="40" alt="LangChain"/><br><sub><b>LangChain</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/langgraph" width="40" height="40" alt="LangGraph"/><br><sub><b>LangGraph</b></sub></td>
+  </tr>
 </table>
 
-Hugging Face Transformers · NLTK · LangChain · LangGraph
+![NLTK](https://img.shields.io/badge/NLTK-475569?style=flat-square)
 
 ### Languages
 
@@ -43,7 +62,7 @@ Hugging Face Transformers · NLTK · LangChain · LangGraph
   </tr>
 </table>
 
-SQL
+![SQL](https://img.shields.io/badge/SQL-475569?style=flat-square)
 
 ### Backend & APIs
 
@@ -56,7 +75,7 @@ SQL
   </tr>
 </table>
 
-REST APIs
+![REST APIs](https://img.shields.io/badge/REST%20APIs-475569?style=flat-square)
 
 ### Databases
 
@@ -67,7 +86,7 @@ REST APIs
   </tr>
 </table>
 
-Vector Databases
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-475569?style=flat-square)
 
 ### Tools & Platforms
 
@@ -86,4 +105,8 @@ Vector Databases
 
 ### Core CS
 
-Data Structures & Algorithms · OOP · Operating Systems · Computer Networks · DBMS
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-475569?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-475569?style=flat-square)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-475569?style=flat-square)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-475569?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-475569?style=flat-square)
