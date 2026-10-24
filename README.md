@@ -1,16 +1,89 @@
-## Hi there 👋
+# Harshit Atal
 
-<!--
-**harshit174/harshit174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**From training neural networks to building multi-agent systems, I like making AI that works end to end.**
 
-Here are some ideas to get you started:
+B.E. Electronics & Computer Engineering @ Thapar Institute of Engineering & Technology · Class of 2028
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshitatal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitatal)
+
+**Experience:** Summer Intern @ Bharat Electronics Limited (2026)
+
+---
+
+## Tech Stack
+
+### AI / ML
+
+CNNs · LSTMs · Transformers · NLP · LLMs (local inference with Ollama) · RAG · Multi-Agent Systems · Model Evaluation · Feature Engineering
+
+### Frameworks & Libraries
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/><br><sub><b>PyTorch</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/><br><sub><b>TensorFlow</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" alt="Keras"/><br><sub><b>Keras</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-Learn"/><br><sub><b>Scikit-Learn</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/><br><sub><b>NumPy</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br><sub><b>Pandas</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/><br><sub><b>Matplotlib</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/><br><sub><b>OpenCV</b></sub></td>
+  </tr>
+</table>
+
+Hugging Face Transformers · NLTK · LangChain · LangGraph
+
+### Languages
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/><br><sub><b>C</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br><sub><b>C++</b></sub></td>
+  </tr>
+</table>
+
+SQL
+
+### Backend & APIs
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/><br><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/></picture><br><sub><b>Flask</b></sub></td>
+    <td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/django/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/></picture><br><sub><b>Django</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" height="40" alt="Streamlit"/><br><sub><b>Streamlit</b></sub></td>
+  </tr>
+</table>
+
+REST APIs
+
+### Databases
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br><sub><b>MySQL</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br><sub><b>PostgreSQL</b></sub></td>
+  </tr>
+</table>
+
+Vector Databases
+
+### Tools & Platforms
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br><sub><b>Git</b></sub></td>
+    <td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/></picture><br><sub><b>GitHub</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br><sub><b>Docker</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" height="40" alt="Fedora"/><br><sub><b>Fedora</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" height="40" alt="Arch Linux"/><br><sub><b>Arch Linux</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/><br><sub><b>VS Code</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/><br><sub><b>Jupyter</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40" height="40" alt="Google Colab"/><br><sub><b>Google Colab</b></sub></td>
+  </tr>
+</table>
+
+### Core CS
+
+Data Structures & Algorithms · OOP · Operating Systems · Computer Networks · DBMS
